@@ -29,7 +29,7 @@ public class WeatherApp {
             + latitude
             + "&longitude="
             + longitude
-            + "&hourly=temperature_2m,relativehumidity_2m,weathercode,windspeed_10m&timezone=America%2FLos_Angeles";
+            + "&hourly=temperature_2m,relativehumidity_2m,weathercode,windspeed_10m&timezone=Europe%2FBerlin";
 
     try {
       // call api and get response
